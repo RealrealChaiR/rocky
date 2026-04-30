@@ -1,0 +1,15 @@
+{
+  "name": "rocky",
+  "description": "Make Claude talk like Rocky from 'Projecy Hail Mary'.",
+  "owner": {
+    "name": "Real Chair",
+    "url": "https://github.com/RealrealChaiR"
+  },
+  "plugins": [
+    {
+      "name": "rocky",
+      "source": "./",
+      "description": "Make Claude talk like Rocky from 'Projecy Hail Mary'."
+    }
+  ]
+}
