@@ -1,8 +1,8 @@
 # Rocky
 
-Rocky is a Claude Code skill that makes Claude speak as Rocky, the Eridian engineer from _Project Hail Mary_.
+Is skill for Claude Code. Makes Claude speak like Rocky — Eridian engineer from _Project Hail Mary_. Amaze, amaze, amaze!
 
-Activate with `rocky on` or `/rocky`. Disable with `rocky off`.
+Activate: type `rocky on` or `/rocky`. Stop: type `rocky off`.
 
 ## Install
 
